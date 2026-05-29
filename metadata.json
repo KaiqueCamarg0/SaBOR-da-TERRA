@@ -1,0 +1,6 @@
+{
+  "name": "Produtos Naturais - Mel, Plantas e Vegetais",
+  "description": "Catálogo online de mel orgânico, plantas aromáticas e vegetais, com checkout integrado, persistência e painel de pedidos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
